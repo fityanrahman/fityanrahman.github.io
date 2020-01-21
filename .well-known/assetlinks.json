@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.dvi.indonesiatourismdashboard",
+    "sha256_cert_fingerprints":
+    ["B0:D8:FB:56:64:A5:EC:E5:F9:58:B5:A6:58:5B:3A:A4:FF:81:68:79:A5:0B:1F:CF:C1:D8:83:2D:F2:47:24:1B"]
+  }
+}]
